@@ -15,7 +15,7 @@ from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 from sklearn.model_selection import cross_val_score, GridSearchCV
 import joblib
 import json
-from typing import Dict, List, Tuple, Any
+from typing import Dict, List, Tuple
 import logging
 from datetime import datetime
 

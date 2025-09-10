@@ -1,0 +1,12 @@
+{
+  "model_name": "linear_regression",
+  "timestamp": "2025-09-10T09:53:41.450422",
+  "metrics": {
+    "mse": 485094391.2943701,
+    "rmse": 22024.858485229142,
+    "mae": 17589.18843050014,
+    "r2": 0.983702620648248,
+    "mape": 2.779233749646128
+  },
+  "model_type": "LinearRegression"
+}

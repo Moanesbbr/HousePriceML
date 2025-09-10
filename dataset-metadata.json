@@ -1,0 +1,23 @@
+{
+    "title": "Advanced House Price Prediction ML Pipeline",
+    "id": "moanesbenbrahim/house-price-ml-advanced",
+    "licenses": [
+        {
+            "name": "MIT"
+        }
+    ],
+    "keywords": [
+        "machine learning",
+        "house prices",
+        "regression",
+        "scikit-learn",
+        "python",
+        "feature engineering",
+        "hyperparameter tuning",
+        "data science",
+        "real estate",
+        "predictive modeling"
+    ],
+    "collaborators": [],
+    "data": []
+}
